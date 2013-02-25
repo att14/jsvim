@@ -1,0 +1,15 @@
+body {
+    margin: 0px;
+}
+
+.cursor-off {
+    background-color: none;
+}
+
+.cursor-on {
+    background-color: gray;
+}
+
+.char {
+    float: left;
+}

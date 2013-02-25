@@ -11,5 +11,7 @@ body {
 }
 
 .char {
+    font-family: monospace;
+    text-align: center;
     float: left;
 }
